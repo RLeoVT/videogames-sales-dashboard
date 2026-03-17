@@ -27,4 +27,4 @@ Interactive Power BI dashboard analyzing global video game sales across regions,
 - **Data Source** — Video Game Sales Dataset (Kaggle)
 
 ## Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](videogames_dashboard.jpeg)
